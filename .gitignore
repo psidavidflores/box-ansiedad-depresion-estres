@@ -2,5 +2,6 @@ Thumbs.db
 ~$*
 *.db
 *.exe
+!docs/recursos/Test de detección/Test estrés/860. Test de GLAZER/Test de Glazer.exe
 tmp/
 output/

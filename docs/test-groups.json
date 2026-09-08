@@ -1,0 +1,140 @@
+{
+  "category": "Test de detección",
+  "groups": [
+    {
+      "id": "test-cas",
+      "name": "Test CAS",
+      "description": "Ansiedad infantil. Reúne las ediciones disponibles, cuestionario, manual y plantilla.",
+      "pathPrefixes": [
+        "Test de detección/Ansiedad/127. CAS -  de ansiedad infantil CAS 4ºedicion",
+        "Test de detección/Ansiedad/979. CAS - Cuestionario de ansiedad infantil 2 ed"
+      ]
+    },
+    {
+      "id": "test-cmas-r",
+      "name": "Test CMAS-R",
+      "description": "Escala de ansiedad manifiesta en niños revisada, con manual, protocolo, perfil y plantillas.",
+      "pathPrefixes": [
+        "Test de detección/Ansiedad/158. CMAS - r ANSIEDAD  MANIFIESTA EN NIÑOS",
+        "Test de detección/Ansiedad/159. CMASR-  Ansiedad Manifiesta en NIños Revisada"
+      ]
+    },
+    {
+      "id": "test-ctac",
+      "name": "Test CTAC",
+      "description": "Cuestionario Tarragona de Ansiedad para Ciegos y nota de apoyo.",
+      "pathPrefixes": ["Test de detección/Ansiedad/176. CTAC -  Ansiedad para Ciegos"]
+    },
+    {
+      "id": "test-goldberg",
+      "name": "Test de Goldberg",
+      "description": "Escala de ansiedad y depresión con instrucciones y cuestionario.",
+      "pathPrefixes": ["Test de detección/Ansiedad/318. Goldberg - Test de Escala de Ansiedad - Depresion"]
+    },
+    {
+      "id": "test-idare",
+      "name": "Test IDARE",
+      "description": "Inventario de ansiedad rasgo-estado, con materiales de aplicación y software de apoyo.",
+      "pathPrefixes": [
+        "Test de detección/Ansiedad/338. IDARE -  ansiedad rasgo estado - M - Spidelberger",
+        "Test de detección/Ansiedad/960. IDARE - Inventario de ansiedad Rasgo Estado - MM + Software"
+      ]
+    },
+    {
+      "id": "test-amas",
+      "name": "Test AMAS",
+      "description": "Escalas de ansiedad manifiesta para adultos, con manual y escalas A, C y E.",
+      "pathPrefixes": ["Test de detección/Ansiedad/35. AMAS - ansiedad mannifiesta en adultos"]
+    },
+    {
+      "id": "test-isra",
+      "name": "Test ISRA",
+      "description": "Inventario de Situaciones y Respuestas de Ansiedad con cuadernillo, manual y descripción.",
+      "pathPrefixes": ["Test de detección/Ansiedad/363. ISRA -  respuestas de ansiedad- Miguel T - TEA"]
+    },
+    {
+      "id": "test-kendall",
+      "name": "Test Kendall",
+      "description": "Material de trabajo para trastornos de ansiedad, con cuaderno de actividades y manual terapéutico.",
+      "pathPrefixes": ["Test de detección/Ansiedad/370. Kendall- para trastornos de ansiedad"]
+    },
+    {
+      "id": "test-stai",
+      "name": "Test STAI",
+      "description": "Ansiedad estado-rasgo. Integra la edición ampliada, cuestionarios, manuales, corrección y automatización.",
+      "pathPrefixes": [
+        "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO",
+        "Test de detección/Ansiedad/543. STAI-  ansiedad estado rasgo- 8ed Ampliada"
+      ]
+    },
+    {
+      "id": "test-staic",
+      "name": "Test STAIC",
+      "description": "Ansiedad estado-rasgo para niños, con manual, cuestionarios, baremos y plantilla de corrección.",
+      "pathPrefixes": [
+        "Test de detección/Ansiedad/544. STAIC -  ANSIEDAD-ESTADO-RASGO EN",
+        "Test de detección/Ansiedad/545. STAIC - autoevaluación  ansiedad estado-rasgo- Adap. Española"
+      ]
+    },
+    {
+      "id": "test-zung",
+      "name": "Test Zung",
+      "description": "Escalas de automedición de ansiedad y depresión, con protocolo y herramientas de corrección.",
+      "pathPrefixes": ["Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad"]
+    },
+    {
+      "id": "test-hamilton",
+      "name": "Escala de Hamilton",
+      "description": "Escala de evaluación para la ansiedad de Hamilton.",
+      "pathPrefixes": ["Test de detección/Ansiedad/908. Escala de Evaluación para la Ansiedad de hamilton"]
+    },
+    {
+      "id": "test-sims",
+      "name": "Test SIMS",
+      "description": "Inventario estructurado de simulación de síntomas, con cuestionario, manual y nota de corrección.",
+      "pathPrefixes": ["Test de detección/Sintomas/530. SIMS - Inventario estructurado de simulación de sintomas"]
+    },
+    {
+      "id": "test-srq",
+      "name": "Cuestionario SRQ",
+      "description": "Cuestionario de síntomas para niños.",
+      "pathPrefixes": ["Test de detección/Sintomas/541. SRQ - Cuestionario de sintomas para NIÑOS"]
+    },
+    {
+      "id": "test-scl-90",
+      "name": "Test SCL-90-R",
+      "description": "Listado de evaluación de 90 síntomas con archivo de calificación.",
+      "pathPrefixes": ["Test de detección/Sintomas/581. TEST DE 90 SINTOMAS"]
+    },
+    {
+      "id": "test-lsb-50",
+      "name": "Test LSB-50",
+      "description": "Listado de Síntomas Breves LSB-50, con cuadernillo, manual, presentaciones y automatización.",
+      "pathPrefixes": ["Test de detección/Sintomas/814. Listado de Sintomas Breves LBS-50+ AUTOMATIZADO"]
+    },
+    {
+      "id": "test-egep",
+      "name": "Test EGEP",
+      "description": "Evaluación global de estrés postraumático, con cuestionario, manual y hoja de corrección.",
+      "pathPrefixes": ["Test de detección/Test estrés/234. EGEP - evaluacion global de estres postraumatico"]
+    },
+    {
+      "id": "test-csi",
+      "name": "Inventario CSI",
+      "description": "Inventario de afrontamiento del estrés, con cuestionario, manual y hoja de aplicación.",
+      "pathPrefixes": ["Test de detección/Test estrés/350. INVENTARIO DE AFRONTAMIENTO DEL ESTRES"]
+    },
+    {
+      "id": "test-estresores-salud",
+      "name": "Test de estresores en la salud",
+      "description": "Escala de estresores laborales en personal de salud, con materiales y programas de calificación.",
+      "pathPrefixes": ["Test de detección/Test estrés/763. ESCALA DE ESTRESORES EN LA SALUD"]
+    },
+    {
+      "id": "test-glazer",
+      "name": "Test de Glazer",
+      "description": "Software asociado al instrumento para su uso local.",
+      "pathPrefixes": ["Test de detección/Test estrés/860. Test de GLAZER"]
+    }
+  ]
+}

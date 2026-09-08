@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "totalFiles": 165,
-  "totalBytes": 596556262.0,
+  "totalFiles": 166,
+  "totalBytes": 596707814.0,
   "categories": [
     {
       "name": "Autoestima",
@@ -781,7 +781,7 @@
       "name": "Test de detección",
       "label": "TESTS DE DETECCIÓN",
       "description": "Instrumentos, cuestionarios, manuales y hojas de corrección organizados por área.",
-      "count": 87,
+      "count": 88,
       "index": 9,
       "resources": [
         {
@@ -1565,6 +1565,15 @@
           "extension": ".xls",
           "type": "XLS",
           "sizeBytes": 73728,
+          "preview": null
+        },
+        {
+          "id": "glazer-software",
+          "name": "Test de Glazer.exe",
+          "path": "Test de detección/Test estrés/860. Test de GLAZER/Test de Glazer.exe",
+          "extension": ".exe",
+          "type": "SOFTWARE",
+          "sizeBytes": 151552,
           "preview": null
         }
       ]

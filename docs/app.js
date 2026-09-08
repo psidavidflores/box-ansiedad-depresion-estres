@@ -4,6 +4,7 @@
   const app = document.getElementById("app");
   const toast = document.getElementById("toast");
   let library = null;
+  let testGroups = [];
   let toastTimer = null;
 
   const categoryStyles = [
@@ -59,6 +60,7 @@
   function currentRoute() {
     const hash = window.location.hash.replace(/^#/, "") || "catalogo";
     if (hash === "tests") return { type: "tests" };
+    if (hash.startsWith("test/")) return { type: "testGroup", id: decodeURIComponent(hash.slice(5)) };
     if (hash.startsWith("categoria/")) return { type: "category", name: decodeURIComponent(hash.slice(10)) };
     return { type: "catalog" };
   }
@@ -117,6 +119,68 @@
     draw();
   }
 
+  function testCategory() {
+    return library.categories.find(function (item) { return item.name === "Test de detección"; });
+  }
+
+  function groupFileTypes(resources) {
+    const types = [];
+    resources.forEach(function (resource) {
+      if (!types.includes(resource.type)) types.push(resource.type);
+    });
+    return types.slice(0, 5).map(function (type) { return '<span class="format-pill">' + esc(type) + '</span>'; }).join("");
+  }
+
+  function renderTestGroupCard(group) {
+    const style = styleFor(group.index);
+    return '<a class="category-card test-group-card" style="--accent:' + style.accent + '" href="#test/' + encodeURIComponent(group.id) + '">' +
+      '<div class="category-top"><span>TEST</span><span>' + group.resources.length + ' archivos</span></div>' +
+      '<div class="category-icon" aria-hidden="true">' + style.icon + '</div>' +
+      '<h2>' + esc(group.name) + '</h2><p>' + esc(group.description) + '</p>' +
+      '<div class="group-formats">' + groupFileTypes(group.resources) + '</div>' +
+      '<div class="category-action"><span>Ver materiales →</span><span aria-hidden="true">+</span></div></a>';
+  }
+
+  function renderTestGroups(category) {
+    app.innerHTML = '<a class="back-link" href="#catalogo">← Volver al catálogo</a>' +
+      '<div class="category-summary"><div><p class="eyebrow">' + esc(category.label) + '</p><h1>Tests de detección</h1></div><p>' + testGroups.length + ' tests · ' + category.count + ' archivos</p></div>' +
+      '<div class="toolbar"><label class="search-box"><span>⌕</span><input id="test-search" type="search" placeholder="Buscar test…" aria-label="Buscar test"></label><button id="download-tests" class="download-section" style="--accent:' + styleFor(category.index).accent + '">⇩ Descargar todos los tests</button></div>' +
+      '<div id="test-grid" class="category-grid"></div>';
+    const search = document.getElementById("test-search");
+    const grid = document.getElementById("test-grid");
+    function draw() {
+      const query = search.value.trim().toLowerCase();
+      const filtered = testGroups.filter(function (group) {
+        const files = group.resources.map(function (resource) { return resource.name; }).join(" ");
+        return (group.name + " " + group.description + " " + files).toLowerCase().includes(query);
+      });
+      grid.innerHTML = filtered.length ? filtered.map(renderTestGroupCard).join("") : '<div class="empty-state"><strong>No encontramos ese test</strong>Prueba con otra palabra.</div>';
+    }
+    search.addEventListener("input", draw);
+    document.getElementById("download-tests").addEventListener("click", function () { downloadSection(category); });
+    draw();
+  }
+
+  function renderTestGroup(group) {
+    const category = testCategory();
+    const style = styleFor(group.index);
+    app.innerHTML = '<a class="back-link" href="#tests">← Volver a tests</a>' +
+      '<div class="category-summary"><div><p class="eyebrow">TEST DE DETECCIÓN</p><h1>' + esc(group.name) + '</h1></div><p>' + group.resources.length + ' archivos</p></div>' +
+      '<p class="group-description">' + esc(group.description) + '</p>' +
+      '<div class="toolbar"><label class="search-box"><span>⌕</span><input id="resource-search" type="search" placeholder="Buscar en este test…" aria-label="Buscar en este test"></label><button id="download-section" class="download-section" style="--accent:' + style.accent + '">⇩ Descargar test completo</button></div>' +
+      '<div id="resource-grid" class="resource-grid"></div>';
+    const search = document.getElementById("resource-search");
+    const grid = document.getElementById("resource-grid");
+    const draw = function () {
+      const query = search.value.trim().toLowerCase();
+      const filtered = group.resources.filter(function (resource) { return resource.name.toLowerCase().includes(query); });
+      grid.innerHTML = filtered.length ? filtered.map(function (resource) { return renderResource(resource, style); }).join("") : '<div class="empty-state"><strong>No encontramos ese archivo</strong>Prueba con otra palabra.</div>';
+    };
+    search.addEventListener("input", draw);
+    document.getElementById("download-section").addEventListener("click", function () { downloadSection({ name: group.name, count: group.resources.length, resources: group.resources }); });
+    draw();
+  }
+
   function renderResource(resource, style) {
     const preview = previewUrl(resource);
     const media = preview ? '<img loading="lazy" src="' + preview + '" alt="Vista previa de ' + esc(resource.name) + '">' : '<span class="resource-type" style="--accent:' + style.accent + '">' + esc(resource.type) + '</span>';
@@ -124,24 +188,32 @@
   }
 
   function renderTests() {
-    const category = library.categories.find(function (item) { return item.name === "Test de detección"; });
-    if (category) renderCategory(category);
+    const category = testCategory();
+    if (category) renderTestGroups(category);
   }
 
   function updateNav(route) {
+    const isTests = route.type === "tests" || route.type === "testGroup";
     document.querySelectorAll("[data-nav]").forEach(function (link) {
-      link.classList.toggle("is-active", (route.type === "tests" && link.dataset.nav === "tests") || (route.type !== "tests" && link.dataset.nav === "catalogo"));
+      link.classList.toggle("is-active", (isTests && link.dataset.nav === "tests") || (!isTests && link.dataset.nav === "catalogo"));
     });
   }
 
   function render() {
     if (!library) return;
     const route = currentRoute();
+    window.scrollTo(0, 0);
+    setTimeout(function () { window.scrollTo(0, 0); }, 0);
     updateNav(route);
     if (route.type === "tests") return renderTests();
+    if (route.type === "testGroup") {
+      const group = testGroups.find(function (item) { return item.id === route.id; });
+      return group ? renderTestGroup(group) : renderTests();
+    }
     if (route.type === "category") {
       const category = library.categories.find(function (item) { return item.name === route.name; });
-      return category ? renderCategory(category) : renderCatalog();
+      if (!category) return renderCatalog();
+      return category.name === "Test de detección" && testGroups.length ? renderTestGroups(category) : renderCategory(category);
     }
     renderCatalog();
   }
@@ -206,7 +278,20 @@
   }
 
   window.addEventListener("hashchange", render);
-  fetch("resources.json").then(function (response) { if (!response.ok) throw new Error("resources"); return response.json(); }).then(function (data) {
+  Promise.all([
+    fetch("resources.json").then(function (response) { if (!response.ok) throw new Error("resources"); return response.json(); }),
+    fetch("test-groups.json").then(function (response) { if (!response.ok) throw new Error("test-groups"); return response.json(); })
+  ]).then(function (results) {
+    const data = results[0];
+    const groupsData = results[1];
+    const category = data.categories.find(function (item) { return item.name === groupsData.category; });
+    const resources = category ? category.resources : [];
+    testGroups = groupsData.groups.map(function (group, index) {
+      const matches = resources.filter(function (resource) {
+        return group.pathPrefixes.some(function (prefix) { return resource.path.startsWith(prefix); });
+      });
+      return Object.assign({}, group, { index: index, resources: matches });
+    }).filter(function (group) { return group.resources.length; });
     library = data;
     document.getElementById("side-total").textContent = data.totalFiles + " archivos disponibles.";
     render();
