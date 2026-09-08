@@ -1,0 +1,1591 @@
+{
+  "version": 1,
+  "totalFiles": 165,
+  "totalBytes": 596556262.0,
+  "categories": [
+    {
+      "name": "Autoestima",
+      "label": "AUTOESTIMA",
+      "description": "Guías y materiales para trabajar autoconcepto, valoración personal y fortalezas.",
+      "count": 3,
+      "index": 0,
+      "resources": [
+        {
+          "id": "aaf421c71d621191",
+          "name": "18_guia_autoestima.pdf",
+          "path": "Autoestima/18_guia_autoestima.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 464558,
+          "preview": "aaf421c71d621191.jpg"
+        },
+        {
+          "id": "089c4f67a85751e9",
+          "name": "272144013-Guia-Practica-de-Autoestima-30-1.pdf",
+          "path": "Autoestima/272144013-Guia-Practica-de-Autoestima-30-1.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 872173,
+          "preview": "089c4f67a85751e9.jpg"
+        },
+        {
+          "id": "d6715ebc784c2462",
+          "name": "CÓMO PROMOVER LA AUTOESTIMA EN NUESTROS HIJOS E HIJAS.pdf",
+          "path": "Autoestima/CÓMO PROMOVER LA AUTOESTIMA EN NUESTROS HIJOS E HIJAS.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 328241,
+          "preview": "d6715ebc784c2462.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dependencia emocional",
+      "label": "DEPENDENCIA EMOCIONAL",
+      "description": "Recursos de consulta y apoyo para comprender vínculos y autonomía emocional.",
+      "count": 1,
+      "index": 1,
+      "resources": [
+        {
+          "id": "04676f164e222f6b",
+          "name": "Guia Practica para vencer la dependencia emocional   _20emocional_20WalterRiso.pdf",
+          "path": "Dependencia emocional/Guia Practica para vencer la dependencia emocional   _20emocional_20WalterRiso.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 376210,
+          "preview": "04676f164e222f6b.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Diccionarios",
+      "label": "REFERENCIA",
+      "description": "Material de referencia para explorar emociones, actitudes, conductas y conceptos relacionados.",
+      "count": 3,
+      "index": 2,
+      "resources": [
+        {
+          "id": "fe2932b6cdd809bd",
+          "name": "Diccionario Bio-Emocional 2016.pdf",
+          "path": "Diccionarios/Diccionario Bio-Emocional 2016.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 5462698,
+          "preview": "fe2932b6cdd809bd.jpg"
+        },
+        {
+          "id": "d96ad2d5f606d55d",
+          "name": "Diccionario de emociones, actitudes y conductas.pdf",
+          "path": "Diccionarios/Diccionario de emociones, actitudes y conductas.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 417501,
+          "preview": "d96ad2d5f606d55d.jpg"
+        },
+        {
+          "id": "6cb0bdd8ec390916",
+          "name": "Diccionario enfermedades emocionales.pdf",
+          "path": "Diccionarios/Diccionario enfermedades emocionales.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1383574,
+          "preview": "6cb0bdd8ec390916.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Guía entrevista a adolescentes",
+      "label": "ADOLESCENTES",
+      "description": "Apoyo estructurado para preparar entrevistas y explorar áreas relevantes.",
+      "count": 1,
+      "index": 3,
+      "resources": [
+        {
+          "id": "987a7c3b743924a3",
+          "name": "GUIA PARA ENTREVISTA ADOLESCENTES.pdf",
+          "path": "Guía entrevista a adolescentes/GUIA PARA ENTREVISTA ADOLESCENTES.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 179709,
+          "preview": "987a7c3b743924a3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Guías de ayuda y actividades",
+      "label": "GUÍAS Y ACTIVIDADES",
+      "description": "Fichas, cuadernillos y guías para abordar ansiedad, depresión, estrés y hábitos.",
+      "count": 44,
+      "index": 4,
+      "resources": [
+        {
+          "id": "fa169a6db78f5427",
+          "name": "¡Adiós a la decepción! Supera la decepción en el trabajo, la vida y el amor.pdf",
+          "path": "Guías de ayuda y actividades/¡Adiós a la decepción! Supera la decepción en el trabajo, la vida y el amor.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1754300,
+          "preview": "fa169a6db78f5427.jpg"
+        },
+        {
+          "id": "c4afec528988912f",
+          "name": "1-1-2018-23-pon3 005.pdf",
+          "path": "Guías de ayuda y actividades/1-1-2018-23-pon3 005.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 333300,
+          "preview": "c4afec528988912f.jpg"
+        },
+        {
+          "id": "1aa2894c54c9deef",
+          "name": "15_guia_organizar_actividades.pdf",
+          "path": "Guías de ayuda y actividades/15_guia_organizar_actividades.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 398604,
+          "preview": "1aa2894c54c9deef.jpg"
+        },
+        {
+          "id": "256feed3eda7c785",
+          "name": "20guia_preocupaciones.pdf",
+          "path": "Guías de ayuda y actividades/20guia_preocupaciones.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 652085,
+          "preview": "256feed3eda7c785.jpg"
+        },
+        {
+          "id": "1d09f87d12011942",
+          "name": "24_guia_pensamientos_ansiosos.pdf",
+          "path": "Guías de ayuda y actividades/24_guia_pensamientos_ansiosos.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 313699,
+          "preview": "1d09f87d12011942.jpg"
+        },
+        {
+          "id": "87898033f7b70bc4",
+          "name": "300ppEjercicioFisico2013.pdf",
+          "path": "Guías de ayuda y actividades/300ppEjercicioFisico2013.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1424322,
+          "preview": "87898033f7b70bc4.jpg"
+        },
+        {
+          "id": "9ab5e1463e727d9e",
+          "name": "80 ejercicios para la ansiedad_ Guía práctica de experiencias para reducir el estrés y la ansiedad (3).pdf",
+          "path": "Guías de ayuda y actividades/80 ejercicios para la ansiedad_ Guía práctica de experiencias para reducir el estrés y la ansiedad (3).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 8755163,
+          "preview": null
+        },
+        {
+          "id": "08f76ccfbf4477c5",
+          "name": "Ansiedad en tiempos de crisis.pdf",
+          "path": "Guías de ayuda y actividades/Ansiedad en tiempos de crisis.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1810110,
+          "preview": "08f76ccfbf4477c5.jpg"
+        },
+        {
+          "id": "e94dea84aa572490",
+          "name": "Ansiedad generalizada (guía de intervención).pdf",
+          "path": "Guías de ayuda y actividades/Ansiedad generalizada (guía de intervención).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 5173721,
+          "preview": "e94dea84aa572490.jpg"
+        },
+        {
+          "id": "ade067172ad442a9",
+          "name": "Ansiedad. Ir de Mal en Peor - Afrontamiento Contraproducente.pdf",
+          "path": "Guías de ayuda y actividades/Ansiedad. Ir de Mal en Peor - Afrontamiento Contraproducente.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1897870,
+          "preview": "ade067172ad442a9.jpg"
+        },
+        {
+          "id": "48ee5ddd30084417",
+          "name": "ansiedadComoControlarla.pdf",
+          "path": "Guías de ayuda y actividades/ansiedadComoControlarla.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 981993,
+          "preview": "48ee5ddd30084417.jpg"
+        },
+        {
+          "id": "516bae4ee27a1d95",
+          "name": "Aprender de la ansiedad, la sabiduria de las emociones.pdf",
+          "path": "Guías de ayuda y actividades/Aprender de la ansiedad, la sabiduria de las emociones.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 613874,
+          "preview": "516bae4ee27a1d95.jpg"
+        },
+        {
+          "id": "86c26d4ed437f8a2",
+          "name": "Bados, A. - Trastorno de ansiedad generalizada (guía para el terapeuta).pdf · versión 1.pdf",
+          "path": "Guías de ayuda y actividades/Bados, A. - Trastorno de ansiedad generalizada (guía para el terapeuta).pdf · versión 1.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 3636843,
+          "preview": "86c26d4ed437f8a2.jpg"
+        },
+        {
+          "id": "45c6a124ec93cbc8",
+          "name": "Cartilla_motivacion.pdf",
+          "path": "Guías de ayuda y actividades/Cartilla_motivacion.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 2073490,
+          "preview": "45c6a124ec93cbc8.jpg"
+        },
+        {
+          "id": "9ac2dfd8d896175f",
+          "name": "Combate rápido la depresión. Diez pasos para convertirte en una versión más feliz de ti mismo.pdf",
+          "path": "Guías de ayuda y actividades/Combate rápido la depresión. Diez pasos para convertirte en una versión más feliz de ti mismo.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1261388,
+          "preview": null
+        },
+        {
+          "id": "009586bbf5753372",
+          "name": "CÓMO AYUDAR A LOS NIÑOS A SUPERAR EL ESTRES Y LA ANSIEDAD - Deborah M. Plummer.pdf",
+          "path": "Guías de ayuda y actividades/CÓMO AYUDAR A LOS NIÑOS A SUPERAR EL ESTRES Y LA ANSIEDAD - Deborah M. Plummer.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 2115541,
+          "preview": "009586bbf5753372.jpg"
+        },
+        {
+          "id": "59b8cf161c3c4dd5",
+          "name": "como manejar el estres.pdf",
+          "path": "Guías de ayuda y actividades/como manejar el estres.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 9514337,
+          "preview": "59b8cf161c3c4dd5.jpg"
+        },
+        {
+          "id": "58d21c5baef4a9ad",
+          "name": "Cómo vencer la ansiedad. Un programa revolucionario para eliminarla definitivamente.pdf",
+          "path": "Guías de ayuda y actividades/Cómo vencer la ansiedad. Un programa revolucionario para eliminarla definitivamente.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1591665,
+          "preview": "58d21c5baef4a9ad.jpg"
+        },
+        {
+          "id": "83c8513b96f3f162",
+          "name": "Cómo vencer tus problemas de ansiedad ante los exámenes - Isabel Serrano Pintado.pdf · versión 1.pdf",
+          "path": "Guías de ayuda y actividades/Cómo vencer tus problemas de ansiedad ante los exámenes - Isabel Serrano Pintado.pdf · versión 1.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1206311,
+          "preview": null
+        },
+        {
+          "id": "b57f1808420b8bce",
+          "name": "Cuadernillo ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/Cuadernillo ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 5759889,
+          "preview": "b57f1808420b8bce.jpg"
+        },
+        {
+          "id": "842cef9227a1e47a",
+          "name": "Cuadernillo de depresion.pdf",
+          "path": "Guías de ayuda y actividades/Cuadernillo de depresion.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 7185038,
+          "preview": "842cef9227a1e47a.jpg"
+        },
+        {
+          "id": "6c75e74576c927c9",
+          "name": "Estres y ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/Estres y ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 3599211,
+          "preview": "6c75e74576c927c9.jpg"
+        },
+        {
+          "id": "a28f806a9c9b9375",
+          "name": "Estres_arte-.pdf",
+          "path": "Guías de ayuda y actividades/Estres_arte-.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 4764181,
+          "preview": "a28f806a9c9b9375.jpg"
+        },
+        {
+          "id": "f4a7f629408222b4",
+          "name": "Fichas ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/Fichas ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1202141,
+          "preview": "f4a7f629408222b4.jpg"
+        },
+        {
+          "id": "d3cca5509093408a",
+          "name": "FICHAS depresion.pdf",
+          "path": "Guías de ayuda y actividades/FICHAS depresion.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 3892204,
+          "preview": "d3cca5509093408a.jpg"
+        },
+        {
+          "id": "696cc592a3ecd811",
+          "name": "GPC_430_Ansiedad_Lain_Entr_compl.pdf",
+          "path": "Guías de ayuda y actividades/GPC_430_Ansiedad_Lain_Entr_compl.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 3058528,
+          "preview": "696cc592a3ecd811.jpg"
+        },
+        {
+          "id": "7eeba976fbbccf50",
+          "name": "GUIA 10 - Comprendiendo la ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/GUIA 10 - Comprendiendo la ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 412761,
+          "preview": "7eeba976fbbccf50.jpg"
+        },
+        {
+          "id": "a1b100814f6ab3d6",
+          "name": "Guía Clínica para el Manejo de la Ansiedad Gerhard Heinze Martin.pdf",
+          "path": "Guías de ayuda y actividades/Guía Clínica para el Manejo de la Ansiedad Gerhard Heinze Martin.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 877234,
+          "preview": "a1b100814f6ab3d6.jpg"
+        },
+        {
+          "id": "65b4dc8612dcb459",
+          "name": "Guía de tratamientos de los trastornos de ansiedad.doc",
+          "path": "Guías de ayuda y actividades/Guía de tratamientos de los trastornos de ansiedad.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 279552,
+          "preview": null
+        },
+        {
+          "id": "fd255dcf5f05d094",
+          "name": "Guia depresion.pdf",
+          "path": "Guías de ayuda y actividades/Guia depresion.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 333914,
+          "preview": "fd255dcf5f05d094.jpg"
+        },
+        {
+          "id": "39ed19ed08ce2873",
+          "name": "guia_consejos_dormir.pdf",
+          "path": "Guías de ayuda y actividades/guia_consejos_dormir.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 415404,
+          "preview": "39ed19ed08ce2873.jpg"
+        },
+        {
+          "id": "686423b9f80a4f32",
+          "name": "guia_controlar_irritabilidad.pdf",
+          "path": "Guías de ayuda y actividades/guia_controlar_irritabilidad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 463164,
+          "preview": "686423b9f80a4f32.jpg"
+        },
+        {
+          "id": "ffaed2ec215a3c34",
+          "name": "guia_dormir_mejor.pdf",
+          "path": "Guías de ayuda y actividades/guia_dormir_mejor.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 325060,
+          "preview": "ffaed2ec215a3c34.jpg"
+        },
+        {
+          "id": "d965c65c72da57a6",
+          "name": "guia_resolver_problemas.pdf",
+          "path": "Guías de ayuda y actividades/guia_resolver_problemas.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 336971,
+          "preview": "d965c65c72da57a6.jpg"
+        },
+        {
+          "id": "d7087c5b35817d54",
+          "name": "guia-clinica-tratamiento-depresion-adolescentes (1).pdf",
+          "path": "Guías de ayuda y actividades/guia-clinica-tratamiento-depresion-adolescentes (1).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 880210,
+          "preview": "d7087c5b35817d54.jpg"
+        },
+        {
+          "id": "ab8938de93406fda",
+          "name": "Guia-Depresion-Ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/Guia-Depresion-Ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 265550,
+          "preview": "ab8938de93406fda.jpg"
+        },
+        {
+          "id": "634f58417eef9304",
+          "name": "GUÍAS DE AUTOAYUDA 04  Autoayuda con la Depresión.pdf",
+          "path": "Guías de ayuda y actividades/GUÍAS DE AUTOAYUDA 04  Autoayuda con la Depresión.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 275547,
+          "preview": "634f58417eef9304.jpg"
+        },
+        {
+          "id": "0c5a921a8123eae3",
+          "name": "Guiasautoayudadepresionansiedad.pdf",
+          "path": "Guías de ayuda y actividades/Guiasautoayudadepresionansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 21506436,
+          "preview": "0c5a921a8123eae3.jpg"
+        },
+        {
+          "id": "669d972f9e5a2371",
+          "name": "Manejar y superar el estres.pdf",
+          "path": "Guías de ayuda y actividades/Manejar y superar el estres.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1724486,
+          "preview": "669d972f9e5a2371.jpg"
+        },
+        {
+          "id": "935dd13f05a9f60f",
+          "name": "manejo_ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/manejo_ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 894119,
+          "preview": "935dd13f05a9f60f.jpg"
+        },
+        {
+          "id": "561b846a0fdae708",
+          "name": "Manual práctico ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/Manual práctico ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 595797,
+          "preview": "561b846a0fdae708.jpg"
+        },
+        {
+          "id": "56e40dbf996f92ce",
+          "name": "Respiración diafragmatica.docx",
+          "path": "Guías de ayuda y actividades/Respiración diafragmatica.docx",
+          "extension": ".docx",
+          "type": "DOCX",
+          "sizeBytes": 14257,
+          "preview": null
+        },
+        {
+          "id": "73feb680dfbdf1de",
+          "name": "Tecnicas ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/Tecnicas ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 582821,
+          "preview": "73feb680dfbdf1de.jpg"
+        },
+        {
+          "id": "706e92e2a5db0938",
+          "name": "trastornos_de_ansiedad.pdf",
+          "path": "Guías de ayuda y actividades/trastornos_de_ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 862773,
+          "preview": "706e92e2a5db0938.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Habilidades Sociales",
+      "label": "HABILIDADES SOCIALES",
+      "description": "Recursos para acompañar habilidades emocionales, comunicación y relaciones interpersonales.",
+      "count": 2,
+      "index": 5,
+      "resources": [
+        {
+          "id": "77ab7077205ec1e9",
+          "name": "habilidadessocialescuadsernodetrabajo16agosto.pdf",
+          "path": "Habilidades Sociales/habilidadessocialescuadsernodetrabajo16agosto.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 788671,
+          "preview": "77ab7077205ec1e9.jpg"
+        },
+        {
+          "id": "4a872197be7baac3",
+          "name": "Miller, Susan - Desarrollo de las habilidades emocionales en los más pequeños.pdf",
+          "path": "Habilidades Sociales/Miller, Susan - Desarrollo de las habilidades emocionales en los más pequeños.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1945107,
+          "preview": "4a872197be7baac3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Libros",
+      "label": "LIBROS",
+      "description": "Biblioteca de consulta sobre ansiedad, autoestima, depresión, estrés y enfoques de intervención.",
+      "count": 15,
+      "index": 6,
+      "resources": [
+        {
+          "id": "66bcec18a7135ace",
+          "name": "_Depresion_ No, Gracias - Juan Antonio Guerrero Canongo.pdf",
+          "path": "Libros/_Depresion_ No, Gracias - Juan Antonio Guerrero Canongo.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1017558,
+          "preview": "66bcec18a7135ace.jpg"
+        },
+        {
+          "id": "5a710fd75e2c5c3e",
+          "name": "¡ATENCIÓN! Ideas útiles y consejos prácticos para prevenir y enfrentar la inseguridad.pdf",
+          "path": "Libros/¡ATENCIÓN! Ideas útiles y consejos prácticos para prevenir y enfrentar la inseguridad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 865390,
+          "preview": "5a710fd75e2c5c3e.jpg"
+        },
+        {
+          "id": "11526036e0a3cf58",
+          "name": "Adios_Ansiedad_David_Burns.pdf",
+          "path": "Libros/Adios_Ansiedad_David_Burns.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1375977,
+          "preview": "11526036e0a3cf58.jpg"
+        },
+        {
+          "id": "a59f752b75ae43c9",
+          "name": "Adios_Ansiedad_David_Burns(1).pdf",
+          "path": "Libros/Adios_Ansiedad_David_Burns(1).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1375977,
+          "preview": "a59f752b75ae43c9.jpg"
+        },
+        {
+          "id": "7be4053b6b744259",
+          "name": "Autodisciplina en diez días.pdf",
+          "path": "Libros/Autodisciplina en diez días.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1963229,
+          "preview": "7be4053b6b744259.jpg"
+        },
+        {
+          "id": "f754ed7150620d00",
+          "name": "Autoestima automática. Cree en ti y alcanza tus metas.pdf",
+          "path": "Libros/Autoestima automática. Cree en ti y alcanza tus metas.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 874866,
+          "preview": "f754ed7150620d00.jpg"
+        },
+        {
+          "id": "51859c5680506b18",
+          "name": "Autoestima para dummies.pdf",
+          "path": "Libros/Autoestima para dummies.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1468013,
+          "preview": "51859c5680506b18.jpg"
+        },
+        {
+          "id": "68fe0840790f1399",
+          "name": "Autoestima para principiantes.pdf",
+          "path": "Libros/Autoestima para principiantes.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 761493,
+          "preview": "68fe0840790f1399.jpg"
+        },
+        {
+          "id": "737638d6bc92d593",
+          "name": "Clark David A Y Beck Aaron T - Terapia Cognitiva Para Trastornos De Ansiedad.pdf",
+          "path": "Libros/Clark David A Y Beck Aaron T - Terapia Cognitiva Para Trastornos De Ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 7594644,
+          "preview": "737638d6bc92d593.jpg"
+        },
+        {
+          "id": "93cd938c91440544",
+          "name": "Comprender la ansiedad, las fobias y el estrés - Juan Rojo Moreno.pdf",
+          "path": "Libros/Comprender la ansiedad, las fobias y el estrés - Juan Rojo Moreno.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 2307051,
+          "preview": "93cd938c91440544.jpg"
+        },
+        {
+          "id": "a80eef456b913d53",
+          "name": "Emociones-expresadas_-emociones-superadas VL.pdf",
+          "path": "Libros/Emociones-expresadas_-emociones-superadas VL.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1004364,
+          "preview": "a80eef456b913d53.jpg"
+        },
+        {
+          "id": "13f414aa38a37165",
+          "name": "Estrés postraumático. Tratamiento basado en la terapia de aceptación y compromiso.pdf",
+          "path": "Libros/Estrés postraumático. Tratamiento basado en la terapia de aceptación y compromiso.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1725934,
+          "preview": "13f414aa38a37165.jpg"
+        },
+        {
+          "id": "43f209a7e4e34295",
+          "name": "Guia-practica-clinica-depresion-mayor-infancia-adolescencia-actualizacion.pdf",
+          "path": "Libros/Guia-practica-clinica-depresion-mayor-infancia-adolescencia-actualizacion.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 3501145,
+          "preview": "43f209a7e4e34295.jpg"
+        },
+        {
+          "id": "270d46ba0c7ef93d",
+          "name": "Terapia Racional Emotiva Conductual.pdf",
+          "path": "Libros/Terapia Racional Emotiva Conductual.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 7907410,
+          "preview": "270d46ba0c7ef93d.jpg"
+        },
+        {
+          "id": "73d99d5f43e7c714",
+          "name": "Terapia_conductual_racional_emotiva_REBT_casos_ilustrativos.pdf",
+          "path": "Libros/Terapia_conductual_racional_emotiva_REBT_casos_ilustrativos.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1238241,
+          "preview": "73d99d5f43e7c714.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Panico",
+      "label": "PÁNICO",
+      "description": "Material de apoyo para comprender el pánico, el miedo, las fobias y su abordaje.",
+      "count": 5,
+      "index": 7,
+      "resources": [
+        {
+          "id": "ac85cecc6e989faf",
+          "name": "Como superar el panico-Dale una mirada (1).pdf",
+          "path": "Panico/Como superar el panico-Dale una mirada (1).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1244837,
+          "preview": "ac85cecc6e989faf.jpg"
+        },
+        {
+          "id": "f336255665019049",
+          "name": "el-tratamiento-y-sus-resultados1.pdf",
+          "path": "Panico/el-tratamiento-y-sus-resultados1.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 362028,
+          "preview": "f336255665019049.jpg"
+        },
+        {
+          "id": "8c0b5854da4229e0",
+          "name": "evaluacion panico.PDF",
+          "path": "Panico/evaluacion panico.PDF",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 19737,
+          "preview": "8c0b5854da4229e0.jpg"
+        },
+        {
+          "id": "9c428f0d4c40bb2e",
+          "name": "MIEDO PANICO FOBIAS pdf---111.pdf",
+          "path": "Panico/MIEDO PANICO FOBIAS pdf---111.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 5640886,
+          "preview": "9c428f0d4c40bb2e.jpg"
+        },
+        {
+          "id": "eb38b155702cdaed",
+          "name": "Primeros Auxilios para las Crisis de Ansiedad y el Trastorno de Pánico.pdf",
+          "path": "Panico/Primeros Auxilios para las Crisis de Ansiedad y el Trastorno de Pánico.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 463630,
+          "preview": "eb38b155702cdaed.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Técnicas de relajación",
+      "label": "RELAJACIÓN",
+      "description": "Ejercicios y guías de respiración, relajación y regulación fisiológica.",
+      "count": 3,
+      "index": 8,
+      "resources": [
+        {
+          "id": "0a6a84e6b0fe24aa",
+          "name": "23_guia_relajarse.pdf",
+          "path": "Técnicas de relajación/23_guia_relajarse.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 606602,
+          "preview": "0a6a84e6b0fe24aa.jpg"
+        },
+        {
+          "id": "4d70ded34c8e009b",
+          "name": "Respiración diafragmatica.docx",
+          "path": "Técnicas de relajación/Respiración diafragmatica.docx",
+          "extension": ".docx",
+          "type": "DOCX",
+          "sizeBytes": 14257,
+          "preview": null
+        },
+        {
+          "id": "2688739d9138c339",
+          "name": "Vázquez, M. I. - Técnicas de relajación y respiración.pdf · versión 1.pdf",
+          "path": "Técnicas de relajación/Vázquez, M. I. - Técnicas de relajación y respiración.pdf · versión 1.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 3574632,
+          "preview": "2688739d9138c339.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Test de detección",
+      "label": "TESTS DE DETECCIÓN",
+      "description": "Instrumentos, cuestionarios, manuales y hojas de corrección organizados por área.",
+      "count": 87,
+      "index": 9,
+      "resources": [
+        {
+          "id": "e391075adb1658df",
+          "name": "CUESTIONARIO.pdf",
+          "path": "Test de detección/Ansiedad/127. CAS -  de ansiedad infantil CAS 4ºedicion/Cuestionario/CUESTIONARIO.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1890954,
+          "preview": "e391075adb1658df.jpg"
+        },
+        {
+          "id": "f76aa6ff6ff3e70d",
+          "name": "MANUAL.pdf",
+          "path": "Test de detección/Ansiedad/127. CAS -  de ansiedad infantil CAS 4ºedicion/Manual/MANUAL.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 38919547,
+          "preview": "f76aa6ff6ff3e70d.jpg"
+        },
+        {
+          "id": "fe97b72cde989d75",
+          "name": "PLANTILLA.pdf",
+          "path": "Test de detección/Ansiedad/127. CAS -  de ansiedad infantil CAS 4ºedicion/Plantilla/PLANTILLA.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1040384,
+          "preview": "fe97b72cde989d75.jpg"
+        },
+        {
+          "id": "d0c0f6cf23746281",
+          "name": "Informe Cuestionario (CMAS-R).pdf",
+          "path": "Test de detección/Ansiedad/158. CMAS - r ANSIEDAD  MANIFIESTA EN NIÑOS/Informe Cuestionario (CMAS-R).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 37085,
+          "preview": "d0c0f6cf23746281.jpg"
+        },
+        {
+          "id": "c5ed8892460c883d",
+          "name": "Manual Cuestionario (CMAS-R)_Compressed.pdf",
+          "path": "Test de detección/Ansiedad/158. CMAS - r ANSIEDAD  MANIFIESTA EN NIÑOS/Manual Cuestionario (CMAS-R)_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 33057535,
+          "preview": "c5ed8892460c883d.jpg"
+        },
+        {
+          "id": "3546418e7b79549b",
+          "name": "Plantilla de Calificación Cuestionario (CMAS-R).pdf",
+          "path": "Test de detección/Ansiedad/158. CMAS - r ANSIEDAD  MANIFIESTA EN NIÑOS/Plantilla de Calificación Cuestionario (CMAS-R).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 173602,
+          "preview": "3546418e7b79549b.jpg"
+        },
+        {
+          "id": "5d593e8982f7b798",
+          "name": "Protocolo Cuestionario (CMAS-R).pdf",
+          "path": "Test de detección/Ansiedad/158. CMAS - r ANSIEDAD  MANIFIESTA EN NIÑOS/Protocolo Cuestionario (CMAS-R).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 323075,
+          "preview": "5d593e8982f7b798.jpg"
+        },
+        {
+          "id": "99ab0555e8348865",
+          "name": "Cuestionario_Compressed.pdf",
+          "path": "Test de detección/Ansiedad/159. CMASR-  Ansiedad Manifiesta en NIños Revisada/Cuestionario CMASR2/Cuestionario_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 602512,
+          "preview": null
+        },
+        {
+          "id": "32c8ff6013ab334b",
+          "name": "cmasr-2-escala-de-ansiedad-manifiesta-en-niños-revisada.pdf",
+          "path": "Test de detección/Ansiedad/159. CMASR-  Ansiedad Manifiesta en NIños Revisada/Manual/cmasr-2-escala-de-ansiedad-manifiesta-en-niños-revisada.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 6515592,
+          "preview": null
+        },
+        {
+          "id": "25dfd82f440e1e16",
+          "name": "Perfil_Compressed.pdf",
+          "path": "Test de detección/Ansiedad/159. CMASR-  Ansiedad Manifiesta en NIños Revisada/PERFIL/Perfil_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1007333,
+          "preview": "25dfd82f440e1e16.jpg"
+        },
+        {
+          "id": "e258e3c113373dbb",
+          "name": "Plantillas de Calificacion_Compressed.pdf",
+          "path": "Test de detección/Ansiedad/159. CMASR-  Ansiedad Manifiesta en NIños Revisada/Plantilla/Plantillas de Calificacion_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 265876,
+          "preview": null
+        },
+        {
+          "id": "ea78116e31f07801",
+          "name": "Manual Cuestionario Tarragona de Ansiedad para Ciegos (CTAC).pdf",
+          "path": "Test de detección/Ansiedad/176. CTAC -  Ansiedad para Ciegos/Manual Cuestionario Tarragona de Ansiedad para Ciegos (CTAC).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 2042283,
+          "preview": null
+        },
+        {
+          "id": "4a4c96f22968670e",
+          "name": "NOTA.txt",
+          "path": "Test de detección/Ansiedad/176. CTAC -  Ansiedad para Ciegos/NOTA.txt",
+          "extension": ".txt",
+          "type": "TXT",
+          "sizeBytes": 84,
+          "preview": null
+        },
+        {
+          "id": "3f9940162ab9dd10",
+          "name": "Cuestionario.pdf",
+          "path": "Test de detección/Ansiedad/318. Goldberg - Test de Escala de Ansiedad - Depresion/Cuestionario.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 25179,
+          "preview": "3f9940162ab9dd10.jpg"
+        },
+        {
+          "id": "d6fd565bc1350163",
+          "name": "Instrucciones.doc",
+          "path": "Test de detección/Ansiedad/318. Goldberg - Test de Escala de Ansiedad - Depresion/Instrucciones.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 32256,
+          "preview": null
+        },
+        {
+          "id": "b63cc4817225c3e4",
+          "name": "CUADERNILLO.pdf",
+          "path": "Test de detección/Ansiedad/338. IDARE -  ansiedad rasgo estado - M - Spidelberger/CUADERNILLO/CUADERNILLO.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 872337,
+          "preview": "b63cc4817225c3e4.jpg"
+        },
+        {
+          "id": "a720a003ec6ebf7d",
+          "name": "IDARE - Instrumento.doc",
+          "path": "Test de detección/Ansiedad/338. IDARE -  ansiedad rasgo estado - M - Spidelberger/CUADERNILLO/IDARE - Instrumento.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 76288,
+          "preview": null
+        },
+        {
+          "id": "e2fd6358186498b7",
+          "name": "Inventario de Ansiedad Rasgo - Estado - IDARE.pdf",
+          "path": "Test de detección/Ansiedad/338. IDARE -  ansiedad rasgo estado - M - Spidelberger/MANUAL/Inventario de Ansiedad Rasgo - Estado - IDARE.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 18952017,
+          "preview": null
+        },
+        {
+          "id": "ff09d56638dcb815",
+          "name": "PLANTILLApdf.pdf",
+          "path": "Test de detección/Ansiedad/338. IDARE -  ansiedad rasgo estado - M - Spidelberger/PLANTILLA/PLANTILLApdf.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1356027,
+          "preview": "ff09d56638dcb815.jpg"
+        },
+        {
+          "id": "b8f9fa759e42d0d6",
+          "name": "TAPA.jpg",
+          "path": "Test de detección/Ansiedad/338. IDARE -  ansiedad rasgo estado - M - Spidelberger/TAPA.jpg",
+          "extension": ".jpg",
+          "type": "JPG",
+          "sizeBytes": 21544,
+          "preview": null
+        },
+        {
+          "id": "e042c8da4b24e19e",
+          "name": "Escala A.pdf",
+          "path": "Test de detección/Ansiedad/35. AMAS - ansiedad mannifiesta en adultos/Cuadernillo Escala (AMAS-A)/Escala A.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 5535350,
+          "preview": "e042c8da4b24e19e.jpg"
+        },
+        {
+          "id": "3069aef94ea23788",
+          "name": "Escala C.pdf",
+          "path": "Test de detección/Ansiedad/35. AMAS - ansiedad mannifiesta en adultos/Cuadernillo Escala (AMAS-C)/Escala C.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 8346756,
+          "preview": "3069aef94ea23788.jpg"
+        },
+        {
+          "id": "4337a93c3b0b25af",
+          "name": "Escala E.pdf",
+          "path": "Test de detección/Ansiedad/35. AMAS - ansiedad mannifiesta en adultos/Cuadernillo Escala (AMAS-E)/Escala E.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 7278562,
+          "preview": "4337a93c3b0b25af.jpg"
+        },
+        {
+          "id": "bbf6166b0dd024d5",
+          "name": "MANUAL.pdf",
+          "path": "Test de detección/Ansiedad/35. AMAS - ansiedad mannifiesta en adultos/Manual Escala (AMAS)/MANUAL.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 72152633,
+          "preview": "bbf6166b0dd024d5.jpg"
+        },
+        {
+          "id": "9c57b0f37142bc39",
+          "name": "Software.xlsx",
+          "path": "Test de detección/Ansiedad/35. AMAS - ansiedad mannifiesta en adultos/Software.xlsx",
+          "extension": ".xlsx",
+          "type": "XLSX",
+          "sizeBytes": 46530,
+          "preview": null
+        },
+        {
+          "id": "908a7e08b6fd1c04",
+          "name": "APUNTE - Descripción I.S.R.A..pdf",
+          "path": "Test de detección/Ansiedad/363. ISRA -  respuestas de ansiedad- Miguel T - TEA/APUNTE - Descripción I.S.R.A..pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1069784,
+          "preview": "908a7e08b6fd1c04.jpg"
+        },
+        {
+          "id": "35633691398d1000",
+          "name": "CUADERNILLO ISRA.pdf",
+          "path": "Test de detección/Ansiedad/363. ISRA -  respuestas de ansiedad- Miguel T - TEA/CUADERNILLO ISRA.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 311156,
+          "preview": "35633691398d1000.jpg"
+        },
+        {
+          "id": "7b23b9c7abfc5ed0",
+          "name": "Desc Inv de Situaciones y Respuestas de Ansiedad (ISRA).pdf",
+          "path": "Test de detección/Ansiedad/363. ISRA -  respuestas de ansiedad- Miguel T - TEA/Desc Inv de Situaciones y Respuestas de Ansiedad (ISRA).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 18149,
+          "preview": null
+        },
+        {
+          "id": "199f1fc3b0cd4fa5",
+          "name": "Inventario de Situaciones y Respuestas de Ansiedad (ISRA).pdf",
+          "path": "Test de detección/Ansiedad/363. ISRA -  respuestas de ansiedad- Miguel T - TEA/Inventario de Situaciones y Respuestas de Ansiedad (ISRA).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1286780,
+          "preview": null
+        },
+        {
+          "id": "96cafe677fa5dbf8",
+          "name": "Manual Inventario (ISRA).pdf",
+          "path": "Test de detección/Ansiedad/363. ISRA -  respuestas de ansiedad- Miguel T - TEA/Manual Inventario (ISRA).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 6946017,
+          "preview": "96cafe677fa5dbf8.jpg"
+        },
+        {
+          "id": "2458d8b1ee3904c8",
+          "name": "KENDALL-Cuaderno de esctividades.pdf",
+          "path": "Test de detección/Ansiedad/370. Kendall- para trastornos de ansiedad/KENDALL-Cuaderno de esctividades.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 48710382,
+          "preview": "2458d8b1ee3904c8.jpg"
+        },
+        {
+          "id": "78afd565771c3281",
+          "name": "manual para el terapeuta.pdf",
+          "path": "Test de detección/Ansiedad/370. Kendall- para trastornos de ansiedad/manual para el terapeuta.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 17802898,
+          "preview": "78afd565771c3281.jpg"
+        },
+        {
+          "id": "1377bbe1546c7aaa",
+          "name": "AUTOMATIZADO.xls",
+          "path": "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO/AUTOMATIZADO.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 38400,
+          "preview": null
+        },
+        {
+          "id": "b372e5a0105c312f",
+          "name": "CORRECCIÓN DEL Cuestionario de ansiedad estado – rasgo (Stai).doc",
+          "path": "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO/CORRECCIÓN DEL Cuestionario de ansiedad estado – rasgo (Stai).doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 29696,
+          "preview": null
+        },
+        {
+          "id": "954aa8a4150df43f",
+          "name": "cuestionario de stai (cuestionario de ansiedad).doc",
+          "path": "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO/cuestionario de stai (cuestionario de ansiedad).doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 47104,
+          "preview": null
+        },
+        {
+          "id": "7887fe7242f27c7f",
+          "name": "cuestionario de stai (cuestionario de ansiedad).pdf",
+          "path": "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO/cuestionario de stai (cuestionario de ansiedad).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 100372,
+          "preview": "7887fe7242f27c7f.jpg"
+        },
+        {
+          "id": "43ad687cab85d154",
+          "name": "Manual CUETIONARIO DE ANSIEDAD ESTADO.pdf",
+          "path": "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO/Manual CUETIONARIO DE ANSIEDAD ESTADO.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 476028,
+          "preview": "43ad687cab85d154.jpg"
+        },
+        {
+          "id": "477c1439c0ffb6ba",
+          "name": "PLANTILLA DE CORRECION.pdf",
+          "path": "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO/PLANTILLA DE CORRECION.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 209682,
+          "preview": "477c1439c0ffb6ba.jpg"
+        },
+        {
+          "id": "eb900c75455abdef",
+          "name": "STAI-PROGRAMA-ADULTOS.xls",
+          "path": "Test de detección/Ansiedad/542. STAI - DE ANSIEDAD ESTADO RASGO/STAI-PROGRAMA-ADULTOS.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 95744,
+          "preview": null
+        },
+        {
+          "id": "7e80384a354721dc",
+          "name": "CUADERNILLO_Compressed.pdf",
+          "path": "Test de detección/Ansiedad/543. STAI-  ansiedad estado rasgo- 8ed Ampliada/CUADERNILLO/CUADERNILLO_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 558230,
+          "preview": "7e80384a354721dc.jpg"
+        },
+        {
+          "id": "8e4cfb747b967473",
+          "name": "CUADERNILLO.pdf",
+          "path": "Test de detección/Ansiedad/543. STAI-  ansiedad estado rasgo- 8ed Ampliada/CUADERNILLO/CUADERNILLO.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1672086,
+          "preview": "8e4cfb747b967473.jpg"
+        },
+        {
+          "id": "ca0a9aca6e538592",
+          "name": "MANUAL_Compressed.pdf",
+          "path": "Test de detección/Ansiedad/543. STAI-  ansiedad estado rasgo- 8ed Ampliada/MANUAL/MANUAL_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 7501200,
+          "preview": "ca0a9aca6e538592.jpg"
+        },
+        {
+          "id": "e02106f2fb03bf72",
+          "name": "Cuestionario -Rasgo para niños STAIC.xls",
+          "path": "Test de detección/Ansiedad/544. STAIC -  ANSIEDAD-ESTADO-RASGO EN/Cuestionario -Rasgo para niños STAIC.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 28672,
+          "preview": null
+        },
+        {
+          "id": "1d09b0f1a4ecd64a",
+          "name": "MANUAL.pdf",
+          "path": "Test de detección/Ansiedad/544. STAIC -  ANSIEDAD-ESTADO-RASGO EN/Manual/MANUAL.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 11831513,
+          "preview": "1d09b0f1a4ecd64a.jpg"
+        },
+        {
+          "id": "533cf37dfcdbb0d0",
+          "name": "Plantilla de Corrección Cuestionario (STAIC) (Tea Ed.).pdf",
+          "path": "Test de detección/Ansiedad/544. STAIC -  ANSIEDAD-ESTADO-RASGO EN/Plantilla de corrección/Plantilla de Corrección Cuestionario (STAIC) (Tea Ed.).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 97206,
+          "preview": null
+        },
+        {
+          "id": "f6bd9e8f57cb955a",
+          "name": "Cuestionario de Ansiedad Estado - rasgo STAIC.doc",
+          "path": "Test de detección/Ansiedad/544. STAIC -  ANSIEDAD-ESTADO-RASGO EN/Test/Cuestionario de Ansiedad Estado - rasgo STAIC.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 91648,
+          "preview": null
+        },
+        {
+          "id": "0e17d34950502fc7",
+          "name": "Baremos del STAIC tRANSFORMACION DE PUNTUACIONES.doc",
+          "path": "Test de detección/Ansiedad/545. STAIC - autoevaluación  ansiedad estado-rasgo- Adap. Española/Baremos del STAIC tRANSFORMACION DE PUNTUACIONES.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 67072,
+          "preview": null
+        },
+        {
+          "id": "5572333b1081f9db",
+          "name": "Cuestionario de Ansiedad Estado - rasgo STAIC.doc",
+          "path": "Test de detección/Ansiedad/545. STAIC - autoevaluación  ansiedad estado-rasgo- Adap. Española/Cuestionario de Ansiedad Estado - rasgo STAIC.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 107008,
+          "preview": null
+        },
+        {
+          "id": "8ff552938b080275",
+          "name": "Cuestionario de Ansiedad Estado-Rasgo para niños STAIC.xls",
+          "path": "Test de detección/Ansiedad/545. STAIC - autoevaluación  ansiedad estado-rasgo- Adap. Española/Cuestionario de Ansiedad Estado-Rasgo para niños STAIC.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 22528,
+          "preview": null
+        },
+        {
+          "id": "2f3ab88b0287ac24",
+          "name": "Manual.doc",
+          "path": "Test de detección/Ansiedad/545. STAIC - autoevaluación  ansiedad estado-rasgo- Adap. Española/Manual.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 8732160,
+          "preview": null
+        },
+        {
+          "id": "3bc6a821d2cc6f7b",
+          "name": "Diapos.pptx",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/Diapositivas/Diapos.pptx",
+          "extension": ".pptx",
+          "type": "PPTX",
+          "sizeBytes": 1317656,
+          "preview": null
+        },
+        {
+          "id": "464b1c1e0c502de5",
+          "name": "F32 EPISODIO DEPRESIVO Leve, Moderado y Grave.docx",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/F32 EPISODIO DEPRESIVO Leve, Moderado y Grave.docx",
+          "extension": ".docx",
+          "type": "DOCX",
+          "sizeBytes": 15225,
+          "preview": null
+        },
+        {
+          "id": "ecf0a91327f9cf31",
+          "name": "foto.jpg",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/foto.jpg",
+          "extension": ".jpg",
+          "type": "JPG",
+          "sizeBytes": 82783,
+          "preview": null
+        },
+        {
+          "id": "4a16f5d8fa4adb53",
+          "name": "MANUAL ZUNG - ANSIEDAD Y DEPRESION.pdf",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/MANUAL ZUNG - ANSIEDAD Y DEPRESION.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 246474,
+          "preview": "4a16f5d8fa4adb53.jpg"
+        },
+        {
+          "id": "5f2d20af6153d275",
+          "name": "MANUAL.pdf",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/MANUAL.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 108696,
+          "preview": "5f2d20af6153d275.jpg"
+        },
+        {
+          "id": "b7be22500e5af762",
+          "name": "Protocolo full.pdf",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/Protocolo full.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 44704,
+          "preview": "b7be22500e5af762.jpg"
+        },
+        {
+          "id": "af404418339c0f5b",
+          "name": "ZUNG Ansiedad y Depresón Juntas.xls",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/ZUNG Ansiedad y Depresón Juntas.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 94208,
+          "preview": null
+        },
+        {
+          "id": "9d194c82e4d728a0",
+          "name": "ZUNG ANSIEDAD.xls",
+          "path": "Test de detección/Ansiedad/892. ZUNG - ESCALAS DE AUTOMEDICION DE LA Ansiedad/ZUNG ANSIEDAD.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 70144,
+          "preview": null
+        },
+        {
+          "id": "de77a1fef526acbc",
+          "name": "Hamilton-ansiedad.pdf",
+          "path": "Test de detección/Ansiedad/908. Escala de Evaluación para la Ansiedad de hamilton/Hamilton-ansiedad.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 51833,
+          "preview": "de77a1fef526acbc.jpg"
+        },
+        {
+          "id": "0a9655b482f22ab6",
+          "name": "hamilton.pdf",
+          "path": "Test de detección/Ansiedad/908. Escala de Evaluación para la Ansiedad de hamilton/hamilton.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 47899,
+          "preview": "0a9655b482f22ab6.jpg"
+        },
+        {
+          "id": "455b4ed073246e7b",
+          "name": "Cuadernillo de Preguntas.pdf",
+          "path": "Test de detección/Ansiedad/960. IDARE - Inventario de ansiedad Rasgo Estado - MM + Software/Cuadernillo de Preguntas.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1886277,
+          "preview": "455b4ed073246e7b.jpg"
+        },
+        {
+          "id": "85f3251e1dfa58b2",
+          "name": "Idare.xls",
+          "path": "Test de detección/Ansiedad/960. IDARE - Inventario de ansiedad Rasgo Estado - MM + Software/Idare.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 75776,
+          "preview": null
+        },
+        {
+          "id": "aee6ed142e6bacf7",
+          "name": "Manual.pdf",
+          "path": "Test de detección/Ansiedad/960. IDARE - Inventario de ansiedad Rasgo Estado - MM + Software/Manual.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 17977193,
+          "preview": "aee6ed142e6bacf7.jpg"
+        },
+        {
+          "id": "4d9e7d39c79b1ce8",
+          "name": "CAS - Cuestionario Ansiedad Infantil.pdf",
+          "path": "Test de detección/Ansiedad/979. CAS - Cuestionario de ansiedad infantil 2 ed/CAS - Cuestionario Ansiedad Infantil.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1260377,
+          "preview": "4d9e7d39c79b1ce8.jpg"
+        },
+        {
+          "id": "6e48baa383e3fc6f",
+          "name": "CUESTIONARIO_Compressed.pdf",
+          "path": "Test de detección/Sintomas/530. SIMS - Inventario estructurado de simulación de sintomas/Cuestionario/CUESTIONARIO_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 933590,
+          "preview": null
+        },
+        {
+          "id": "97f592736d516f71",
+          "name": "MANUAL_Compressed.pdf",
+          "path": "Test de detección/Sintomas/530. SIMS - Inventario estructurado de simulación de sintomas/Manual/MANUAL_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 20827059,
+          "preview": "97f592736d516f71.jpg"
+        },
+        {
+          "id": "aefcc507a15fd347",
+          "name": "NOTA SOBRE CORRECCION.txt",
+          "path": "Test de detección/Sintomas/530. SIMS - Inventario estructurado de simulación de sintomas/NOTA SOBRE CORRECCION.txt",
+          "extension": ".txt",
+          "type": "TXT",
+          "sizeBytes": 212,
+          "preview": null
+        },
+        {
+          "id": "dceede21db563983",
+          "name": "Cuestionario de sintomas para NIÑOS -SRQ_001.jpg",
+          "path": "Test de detección/Sintomas/541. SRQ - Cuestionario de sintomas para NIÑOS/Cuestionario de sintomas para NIÑOS -SRQ_001.jpg",
+          "extension": ".jpg",
+          "type": "JPG",
+          "sizeBytes": 409552,
+          "preview": null
+        },
+        {
+          "id": "2f64baa4ed3029ac",
+          "name": "scl-90r.xls",
+          "path": "Test de detección/Sintomas/581. TEST DE 90 SINTOMAS/scl-90r.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 905216,
+          "preview": null
+        },
+        {
+          "id": "e9c53f9278578e89",
+          "name": "descarga.png",
+          "path": "Test de detección/Sintomas/814. Listado de Sintomas Breves LBS-50+ AUTOMATIZADO/descarga.png",
+          "extension": ".png",
+          "type": "PNG",
+          "sizeBytes": 12862,
+          "preview": null
+        },
+        {
+          "id": "0c1e624289c33258",
+          "name": "LSB 50 Cuadernillo.pdf",
+          "path": "Test de detección/Sintomas/814. Listado de Sintomas Breves LBS-50+ AUTOMATIZADO/LSB 50 Cuadernillo.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 2941182,
+          "preview": "0c1e624289c33258.jpg"
+        },
+        {
+          "id": "4537ababefebf4c4",
+          "name": "LSB 50 Manual.pdf",
+          "path": "Test de detección/Sintomas/814. Listado de Sintomas Breves LBS-50+ AUTOMATIZADO/LSB 50 Manual.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 38523448,
+          "preview": "4537ababefebf4c4.jpg"
+        },
+        {
+          "id": "d31910612d39a496",
+          "name": "LSB50 FISCALIA.xls",
+          "path": "Test de detección/Sintomas/814. Listado de Sintomas Breves LBS-50+ AUTOMATIZADO/LSB50 FISCALIA.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 53760,
+          "preview": null
+        },
+        {
+          "id": "4a094e3b1ccfdba8",
+          "name": "PPT.ppt",
+          "path": "Test de detección/Sintomas/814. Listado de Sintomas Breves LBS-50+ AUTOMATIZADO/PPT.ppt",
+          "extension": ".ppt",
+          "type": "PPT",
+          "sizeBytes": 1337344,
+          "preview": null
+        },
+        {
+          "id": "d0cbaadc4404339a",
+          "name": "CUESTIONARIO_Compressed.pdf",
+          "path": "Test de detección/Test estrés/234. EGEP - evaluacion global de estres postraumatico/Cuestionario/CUESTIONARIO_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 1157157,
+          "preview": null
+        },
+        {
+          "id": "cab3159edaf3746e",
+          "name": "HOJA DE CORRECCION_Compressed.pdf",
+          "path": "Test de detección/Test estrés/234. EGEP - evaluacion global de estres postraumatico/Hoja de correccion/HOJA DE CORRECCION_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 687067,
+          "preview": null
+        },
+        {
+          "id": "65decb351b287087",
+          "name": "MANUAL_Compressed.pdf",
+          "path": "Test de detección/Test estrés/234. EGEP - evaluacion global de estres postraumatico/Manual/MANUAL_Compressed.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 26665810,
+          "preview": "65decb351b287087.jpg"
+        },
+        {
+          "id": "1084d9498cf3acf8",
+          "name": "csi.pdf",
+          "path": "Test de detección/Test estrés/350. INVENTARIO DE AFRONTAMIENTO DEL ESTRES/csi.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 395468,
+          "preview": "1084d9498cf3acf8.jpg"
+        },
+        {
+          "id": "5ea42ee8883502c1",
+          "name": "hoja estres.jpg",
+          "path": "Test de detección/Test estrés/350. INVENTARIO DE AFRONTAMIENTO DEL ESTRES/hoja estres.jpg",
+          "extension": ".jpg",
+          "type": "JPG",
+          "sizeBytes": 493575,
+          "preview": null
+        },
+        {
+          "id": "0e46370ceabfd6f5",
+          "name": "MANUAL.pdf",
+          "path": "Test de detección/Test estrés/350. INVENTARIO DE AFRONTAMIENTO DEL ESTRES/MANUAL.pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 118510,
+          "preview": "0e46370ceabfd6f5.jpg"
+        },
+        {
+          "id": "7ce717398577bf1a",
+          "name": "PRUEBA DE AFRONT. ESTRES.doc",
+          "path": "Test de detección/Test estrés/350. INVENTARIO DE AFRONTAMIENTO DEL ESTRES/PRUEBA DE AFRONT. ESTRES.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 425472,
+          "preview": null
+        },
+        {
+          "id": "e02c54407c03dcac",
+          "name": "cuestionario.xls",
+          "path": "Test de detección/Test estrés/763. ESCALA DE ESTRESORES EN LA SALUD/cuestionario.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 22016,
+          "preview": null
+        },
+        {
+          "id": "31194ec2a0f0cc70",
+          "name": "EL ESTRES Y UN TEST.doc",
+          "path": "Test de detección/Test estrés/763. ESCALA DE ESTRESORES EN LA SALUD/EL ESTRES Y UN TEST.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 64000,
+          "preview": null
+        },
+        {
+          "id": "a243b2dde22299ee",
+          "name": "ESCALA DE ESTRESORES LABORALES EN PERSONAL DE SALUD.doc",
+          "path": "Test de detección/Test estrés/763. ESCALA DE ESTRESORES EN LA SALUD/ESCALA DE ESTRESORES LABORALES EN PERSONAL DE SALUD.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 222720,
+          "preview": null
+        },
+        {
+          "id": "d656d32b0a35856e",
+          "name": "EVALUACIÓN PSICOLÓGICA DEL ESTRÉS LABORAL.doc",
+          "path": "Test de detección/Test estrés/763. ESCALA DE ESTRESORES EN LA SALUD/EVALUACIÓN PSICOLÓGICA DEL ESTRÉS LABORAL.doc",
+          "extension": ".doc",
+          "type": "DOC",
+          "sizeBytes": 124416,
+          "preview": null
+        },
+        {
+          "id": "fdc208411b6ddbf8",
+          "name": "ESTRESORES EN LA SALUD.xls",
+          "path": "Test de detección/Test estrés/763. ESCALA DE ESTRESORES EN LA SALUD/PROGRAMA DE CALIFICACION/ESTRESORES EN LA SALUD.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 46592,
+          "preview": null
+        },
+        {
+          "id": "2001cc46e2aad54c",
+          "name": "ESTRESORES LABORALES EN SALUD.xls",
+          "path": "Test de detección/Test estrés/763. ESCALA DE ESTRESORES EN LA SALUD/PROGRAMA DE CALIFICACION/ESTRESORES LABORALES EN SALUD.xls",
+          "extension": ".xls",
+          "type": "XLS",
+          "sizeBytes": 73728,
+          "preview": null
+        }
+      ]
+    },
+    {
+      "name": "Tratamiento estrés postraumatico",
+      "label": "TEPT",
+      "description": "Material de consulta sobre estrés postraumático y recursos de acompañamiento.",
+      "count": 1,
+      "index": 10,
+      "resources": [
+        {
+          "id": "bf00802b7ca3fda8",
+          "name": "Cuaderno de trabajo para el tratamiento corpomental del trastorno de estrés postraumático (TEPT).pdf",
+          "path": "Tratamiento estrés postraumatico/Cuaderno de trabajo para el tratamiento corpomental del trastorno de estrés postraumático (TEPT).pdf",
+          "extension": ".pdf",
+          "type": "PDF",
+          "sizeBytes": 3271198,
+          "preview": null
+        }
+      ]
+    }
+  ]
+}

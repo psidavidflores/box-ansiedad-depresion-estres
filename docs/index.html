@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Biblioteca profesional Box Ansiedad, Depresión y Estrés.">
+    <title>Box Ansiedad, Depresión y Estrés | Biblioteca profesional</title>
+    <link rel="icon" href="assets/brand-logo.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Navegación de la biblioteca">
+        <a class="brand" href="#catalogo" aria-label="Ir al catálogo">
+          <img src="assets/brand-logo.jpg" alt="Logo de Kit Intervención">
+          <span>
+            <strong>Box<br>Ansiedad,<br>Depresión<br>y Estrés</strong>
+            <small>Biblioteca profesional</small>
+          </span>
+        </a>
+
+        <div class="side-rule"></div>
+        <p class="side-label">BIBLIOTECA</p>
+        <nav class="side-nav">
+          <a class="side-link is-active" href="#catalogo" data-nav="catalogo">
+            <span class="nav-icon">⌂</span><span>Recursos por temática</span>
+          </a>
+          <a class="side-link" href="#tests" data-nav="tests">
+            <span class="nav-icon">◎</span><span>Tests de detección</span>
+          </a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <p>Material digital organizado para consulta y apoyo en la preparación de sesiones.</p>
+          <strong id="side-total">Cargando archivos…</strong>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <header class="topbar">
+          <div class="mobile-brand">
+            <img src="assets/brand-logo.jpg" alt="">
+            <span>Box Ansiedad, Depresión y Estrés</span>
+          </div>
+          <div class="topbar-note">ACCESO DIGITAL · EDICIÓN 01</div>
+        </header>
+
+        <section id="app" class="content-stage" aria-live="polite">
+          <div class="loading-state">Preparando la biblioteca…</div>
+        </section>
+      </main>
+    </div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="site-config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

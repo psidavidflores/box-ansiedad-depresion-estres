@@ -1,0 +1,6 @@
+Thumbs.db
+~$*
+*.db
+*.exe
+tmp/
+output/
