@@ -279,7 +279,7 @@
 
   window.addEventListener("hashchange", render);
   Promise.all([
-    fetch("resources.json").then(function (response) { if (!response.ok) throw new Error("resources"); return response.json(); }),
+    fetch("resources.json?v=163").then(function (response) { if (!response.ok) throw new Error("resources"); return response.json(); }),
     fetch("test-groups.json").then(function (response) { if (!response.ok) throw new Error("test-groups"); return response.json(); })
   ]).then(function (results) {
     const data = results[0];
