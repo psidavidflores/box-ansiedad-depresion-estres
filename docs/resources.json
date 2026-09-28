@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "totalFiles": 166,
-  "totalBytes": 596707814.0,
+  "totalFiles": 163,
+  "totalBytes": 596707814,
   "categories": [
     {
       "name": "Autoestima",
@@ -36,24 +36,6 @@
           "type": "PDF",
           "sizeBytes": 328241,
           "preview": "d6715ebc784c2462.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Dependencia emocional",
-      "label": "DEPENDENCIA EMOCIONAL",
-      "description": "Recursos de consulta y apoyo para comprender vínculos y autonomía emocional.",
-      "count": 1,
-      "index": 1,
-      "resources": [
-        {
-          "id": "04676f164e222f6b",
-          "name": "Guia Practica para vencer la dependencia emocional   _20emocional_20WalterRiso.pdf",
-          "path": "Dependencia emocional/Guia Practica para vencer la dependencia emocional   _20emocional_20WalterRiso.pdf",
-          "extension": ".pdf",
-          "type": "PDF",
-          "sizeBytes": 376210,
-          "preview": "04676f164e222f6b.jpg"
         }
       ]
     },
@@ -513,33 +495,6 @@
           "type": "PDF",
           "sizeBytes": 862773,
           "preview": "706e92e2a5db0938.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Habilidades Sociales",
-      "label": "HABILIDADES SOCIALES",
-      "description": "Recursos para acompañar habilidades emocionales, comunicación y relaciones interpersonales.",
-      "count": 2,
-      "index": 5,
-      "resources": [
-        {
-          "id": "77ab7077205ec1e9",
-          "name": "habilidadessocialescuadsernodetrabajo16agosto.pdf",
-          "path": "Habilidades Sociales/habilidadessocialescuadsernodetrabajo16agosto.pdf",
-          "extension": ".pdf",
-          "type": "PDF",
-          "sizeBytes": 788671,
-          "preview": "77ab7077205ec1e9.jpg"
-        },
-        {
-          "id": "4a872197be7baac3",
-          "name": "Miller, Susan - Desarrollo de las habilidades emocionales en los más pequeños.pdf",
-          "path": "Habilidades Sociales/Miller, Susan - Desarrollo de las habilidades emocionales en los más pequeños.pdf",
-          "extension": ".pdf",
-          "type": "PDF",
-          "sizeBytes": 1945107,
-          "preview": "4a872197be7baac3.jpg"
         }
       ]
     },
